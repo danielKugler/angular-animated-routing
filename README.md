@@ -1,7 +1,7 @@
 # Animated Routing
 
 This code was gernerated using the Angular-CLI.
-The app directory is what you are looking for.
+The **src/app** directory is what you are looking for.
 
 An example on how to make routing animations working and waiting for component related animations as animateChild Animations.
 
